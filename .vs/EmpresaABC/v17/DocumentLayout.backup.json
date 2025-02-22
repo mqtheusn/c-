@@ -1,10 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\EmpresaABC\\",
+  "WorkspaceRootPath": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\projetoCSharpSorveteriaZequinha\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D9C53ED-53CD-4F1A-9BED-F1E61F59928F}|SorveteriaZequinha\\SorveteriaZequinha.csproj|c:\\users\\laboratorio-info\\documents\\visual studio 2022\\empresaabc\\sorveteriazequinha\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3D9C53ED-53CD-4F1A-9BED-F1E61F59928F}|SorveteriaZequinha\\SorveteriaZequinha.csproj|c:\\users\\laboratorio-info\\documents\\visual studio 2022\\projetocsharpsorveteriazequinha\\sorveteriazequinha\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9C53ED-53CD-4F1A-9BED-F1E61F59928F}|SorveteriaZequinha\\SorveteriaZequinha.csproj|solutionrelative:sorveteriazequinha\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9C53ED-53CD-4F1A-9BED-F1E61F59928F}|SorveteriaZequinha\\SorveteriaZequinha.csproj|C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\projetoCSharpSorveteriaZequinha\\sorveteriazequinha\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D9C53ED-53CD-4F1A-9BED-F1E61F59928F}|SorveteriaZequinha\\SorveteriaZequinha.csproj|solutionrelative:sorveteriazequinha\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9C53ED-53CD-4F1A-9BED-F1E61F59928F}|SorveteriaZequinha\\SorveteriaZequinha.csproj|c:\\users\\laboratorio-info\\documents\\visual studio 2022\\projetocsharpsorveteriazequinha\\sorveteriazequinha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9C53ED-53CD-4F1A-9BED-F1E61F59928F}|SorveteriaZequinha\\SorveteriaZequinha.csproj|solutionrelative:sorveteriazequinha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9C53ED-53CD-4F1A-9BED-F1E61F59928F}|SorveteriaZequinha\\SorveteriaZequinha.csproj|c:\\users\\laboratorio-info\\documents\\visual studio 2022\\projetocsharpsorveteriazequinha\\sorveteriazequinha\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9C53ED-53CD-4F1A-9BED-F1E61F59928F}|SorveteriaZequinha\\SorveteriaZequinha.csproj|solutionrelative:sorveteriazequinha\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9C53ED-53CD-4F1A-9BED-F1E61F59928F}|SorveteriaZequinha\\SorveteriaZequinha.csproj|c:\\users\\laboratorio-info\\documents\\visual studio 2022\\projetocsharpsorveteriazequinha\\sorveteriazequinha\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3D9C53ED-53CD-4F1A-9BED-F1E61F59928F}|SorveteriaZequinha\\SorveteriaZequinha.csproj|solutionrelative:sorveteriazequinha\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9C53ED-53CD-4F1A-9BED-F1E61F59928F}|SorveteriaZequinha\\SorveteriaZequinha.csproj|c:\\users\\laboratorio-info\\documents\\visual studio 2022\\projetocsharpsorveteriazequinha\\sorveteriazequinha\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9C53ED-53CD-4F1A-9BED-F1E61F59928F}|SorveteriaZequinha\\SorveteriaZequinha.csproj|solutionrelative:sorveteriazequinha\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9C53ED-53CD-4F1A-9BED-F1E61F59928F}|SorveteriaZequinha\\SorveteriaZequinha.csproj|c:\\users\\laboratorio-info\\documents\\visual studio 2022\\projetocsharpsorveteriazequinha\\sorveteriazequinha\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D9C53ED-53CD-4F1A-9BED-F1E61F59928F}|SorveteriaZequinha\\SorveteriaZequinha.csproj|solutionrelative:sorveteriazequinha\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +43,89 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\EmpresaABC\\SorveteriaZequinha\\frmLogin.cs",
+              "Title": "frmMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\projetoCSharpSorveteriaZequinha\\SorveteriaZequinha\\frmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "SorveteriaZequinha\\frmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\projetoCSharpSorveteriaZequinha\\SorveteriaZequinha\\frmMenuPrincipal.cs",
+              "RelativeToolTip": "SorveteriaZequinha\\frmMenuPrincipal.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T01:14:04.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmSplash.cs",
+              "DocumentMoniker": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\projetoCSharpSorveteriaZequinha\\SorveteriaZequinha\\frmSplash.cs",
+              "RelativeDocumentMoniker": "SorveteriaZequinha\\frmSplash.cs",
+              "ToolTip": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\projetoCSharpSorveteriaZequinha\\SorveteriaZequinha\\frmSplash.cs",
+              "RelativeToolTip": "SorveteriaZequinha\\frmSplash.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T01:12:27.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmSplash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\projetoCSharpSorveteriaZequinha\\SorveteriaZequinha\\frmSplash.cs",
+              "RelativeDocumentMoniker": "SorveteriaZequinha\\frmSplash.cs",
+              "ToolTip": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\projetoCSharpSorveteriaZequinha\\SorveteriaZequinha\\frmSplash.cs [Design]",
+              "RelativeToolTip": "SorveteriaZequinha\\frmSplash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T01:12:24.791Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\projetoCSharpSorveteriaZequinha\\SorveteriaZequinha\\frmLogin.cs",
               "RelativeDocumentMoniker": "SorveteriaZequinha\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\EmpresaABC\\SorveteriaZequinha\\frmLogin.cs [Design]",
+              "ToolTip": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\projetoCSharpSorveteriaZequinha\\SorveteriaZequinha\\frmLogin.cs",
+              "RelativeToolTip": "SorveteriaZequinha\\frmLogin.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T01:11:23.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\projetoCSharpSorveteriaZequinha\\SorveteriaZequinha\\Program.cs",
+              "RelativeDocumentMoniker": "SorveteriaZequinha\\Program.cs",
+              "ToolTip": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\projetoCSharpSorveteriaZequinha\\SorveteriaZequinha\\Program.cs",
+              "RelativeToolTip": "SorveteriaZequinha\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T01:09:23.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\projetoCSharpSorveteriaZequinha\\SorveteriaZequinha\\frmLogin.cs",
+              "RelativeDocumentMoniker": "SorveteriaZequinha\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\projetoCSharpSorveteriaZequinha\\SorveteriaZequinha\\frmLogin.cs [Design]",
               "RelativeToolTip": "SorveteriaZequinha\\frmLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T00:45:29.829Z",
+              "WhenOpened": "2025-02-22T01:04:26.921Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMenuPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\projetoCSharpSorveteriaZequinha\\SorveteriaZequinha\\frmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "SorveteriaZequinha\\frmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Laboratorio-Info\\Documents\\Visual Studio 2022\\projetoCSharpSorveteriaZequinha\\SorveteriaZequinha\\frmMenuPrincipal.cs [Design]",
+              "RelativeToolTip": "SorveteriaZequinha\\frmMenuPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T00:02:10.967Z",
               "EditorCaption": " [Design]"
             }
           ]

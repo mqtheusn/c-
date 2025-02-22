@@ -29,148 +29,149 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMenuPrincipal));
-            this.button4 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
-            this.button9 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnFuncionarios = new System.Windows.Forms.Button();
+            this.btnUsuarios = new System.Windows.Forms.Button();
+            this.btnRelatorios = new System.Windows.Forms.Button();
+            this.btnconfiguracoes = new System.Windows.Forms.Button();
+            this.btnFornecedores = new System.Windows.Forms.Button();
+            this.btnProdutos = new System.Windows.Forms.Button();
+            this.btnClientes = new System.Windows.Forms.Button();
+            this.btnVenda = new System.Windows.Forms.Button();
+            this.bntVoltar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // button4
+            // btnFuncionarios
             // 
-            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Image = ((System.Drawing.Image)(resources.GetObject("button4.Image")));
-            this.button4.Location = new System.Drawing.Point(16, 12);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(176, 230);
-            this.button4.TabIndex = 3;
-            this.button4.Text = "Funcionários";
-            this.button4.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
+            this.btnFuncionarios.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnFuncionarios.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnFuncionarios.Image = ((System.Drawing.Image)(resources.GetObject("btnFuncionarios.Image")));
+            this.btnFuncionarios.Location = new System.Drawing.Point(16, 12);
+            this.btnFuncionarios.Name = "btnFuncionarios";
+            this.btnFuncionarios.Size = new System.Drawing.Size(176, 230);
+            this.btnFuncionarios.TabIndex = 3;
+            this.btnFuncionarios.Text = "&Funcionários";
+            this.btnFuncionarios.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
+            this.btnFuncionarios.UseVisualStyleBackColor = true;
+            this.btnFuncionarios.Click += new System.EventHandler(this.button4_Click);
             // 
-            // button2
+            // btnUsuarios
             // 
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
-            this.button2.Location = new System.Drawing.Point(208, 12);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(176, 230);
-            this.button2.TabIndex = 5;
-            this.button2.Text = "Usuários";
-            this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnUsuarios.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnUsuarios.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnUsuarios.Image = ((System.Drawing.Image)(resources.GetObject("btnUsuarios.Image")));
+            this.btnUsuarios.Location = new System.Drawing.Point(208, 12);
+            this.btnUsuarios.Name = "btnUsuarios";
+            this.btnUsuarios.Size = new System.Drawing.Size(176, 230);
+            this.btnUsuarios.TabIndex = 5;
+            this.btnUsuarios.Text = "&Usuários";
+            this.btnUsuarios.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
+            this.btnUsuarios.UseVisualStyleBackColor = true;
             // 
-            // button3
+            // btnRelatorios
             // 
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Image = ((System.Drawing.Image)(resources.GetObject("button3.Image")));
-            this.button3.Location = new System.Drawing.Point(401, 12);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(176, 230);
-            this.button3.TabIndex = 6;
-            this.button3.Text = "Relatórios";
-            this.button3.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
-            this.button3.UseVisualStyleBackColor = true;
+            this.btnRelatorios.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnRelatorios.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRelatorios.Image = ((System.Drawing.Image)(resources.GetObject("btnRelatorios.Image")));
+            this.btnRelatorios.Location = new System.Drawing.Point(401, 12);
+            this.btnRelatorios.Name = "btnRelatorios";
+            this.btnRelatorios.Size = new System.Drawing.Size(176, 230);
+            this.btnRelatorios.TabIndex = 6;
+            this.btnRelatorios.Text = "&Relatórios";
+            this.btnRelatorios.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
+            this.btnRelatorios.UseVisualStyleBackColor = true;
             // 
-            // button5
+            // btnconfiguracoes
             // 
-            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button5.Image = ((System.Drawing.Image)(resources.GetObject("button5.Image")));
-            this.button5.Location = new System.Drawing.Point(597, 12);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(176, 230);
-            this.button5.TabIndex = 7;
-            this.button5.Text = "Configurações";
-            this.button5.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
-            this.button5.UseVisualStyleBackColor = true;
+            this.btnconfiguracoes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnconfiguracoes.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnconfiguracoes.Image = ((System.Drawing.Image)(resources.GetObject("btnconfiguracoes.Image")));
+            this.btnconfiguracoes.Location = new System.Drawing.Point(597, 12);
+            this.btnconfiguracoes.Name = "btnconfiguracoes";
+            this.btnconfiguracoes.Size = new System.Drawing.Size(176, 230);
+            this.btnconfiguracoes.TabIndex = 7;
+            this.btnconfiguracoes.Text = "Confi&gurações";
+            this.btnconfiguracoes.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
+            this.btnconfiguracoes.UseVisualStyleBackColor = true;
             // 
-            // button6
+            // btnFornecedores
             // 
-            this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button6.Image = ((System.Drawing.Image)(resources.GetObject("button6.Image")));
-            this.button6.Location = new System.Drawing.Point(401, 248);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(176, 230);
-            this.button6.TabIndex = 10;
-            this.button6.Text = "Fornecedor";
-            this.button6.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
-            this.button6.UseVisualStyleBackColor = true;
+            this.btnFornecedores.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnFornecedores.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnFornecedores.Image = ((System.Drawing.Image)(resources.GetObject("btnFornecedores.Image")));
+            this.btnFornecedores.Location = new System.Drawing.Point(401, 248);
+            this.btnFornecedores.Name = "btnFornecedores";
+            this.btnFornecedores.Size = new System.Drawing.Size(176, 230);
+            this.btnFornecedores.TabIndex = 10;
+            this.btnFornecedores.Text = "Forn&ecedores";
+            this.btnFornecedores.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
+            this.btnFornecedores.UseVisualStyleBackColor = true;
             // 
-            // button7
+            // btnProdutos
             // 
-            this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button7.Image = ((System.Drawing.Image)(resources.GetObject("button7.Image")));
-            this.button7.Location = new System.Drawing.Point(208, 248);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(176, 230);
-            this.button7.TabIndex = 9;
-            this.button7.Text = "Produtos";
-            this.button7.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
-            this.button7.UseVisualStyleBackColor = true;
+            this.btnProdutos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnProdutos.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnProdutos.Image = ((System.Drawing.Image)(resources.GetObject("btnProdutos.Image")));
+            this.btnProdutos.Location = new System.Drawing.Point(208, 248);
+            this.btnProdutos.Name = "btnProdutos";
+            this.btnProdutos.Size = new System.Drawing.Size(176, 230);
+            this.btnProdutos.TabIndex = 9;
+            this.btnProdutos.Text = "&Produtos";
+            this.btnProdutos.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
+            this.btnProdutos.UseVisualStyleBackColor = true;
             // 
-            // button8
+            // btnClientes
             // 
-            this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button8.Image = ((System.Drawing.Image)(resources.GetObject("button8.Image")));
-            this.button8.Location = new System.Drawing.Point(16, 248);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(176, 230);
-            this.button8.TabIndex = 8;
-            this.button8.Text = "Clientes";
-            this.button8.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
-            this.button8.UseVisualStyleBackColor = true;
+            this.btnClientes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnClientes.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnClientes.Image = ((System.Drawing.Image)(resources.GetObject("btnClientes.Image")));
+            this.btnClientes.Location = new System.Drawing.Point(16, 248);
+            this.btnClientes.Name = "btnClientes";
+            this.btnClientes.Size = new System.Drawing.Size(176, 230);
+            this.btnClientes.TabIndex = 8;
+            this.btnClientes.Text = "C&lientes";
+            this.btnClientes.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
+            this.btnClientes.UseVisualStyleBackColor = true;
             // 
-            // button9
+            // btnVenda
             // 
-            this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button9.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button9.Image = ((System.Drawing.Image)(resources.GetObject("button9.Image")));
-            this.button9.Location = new System.Drawing.Point(597, 248);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(176, 230);
-            this.button9.TabIndex = 11;
-            this.button9.Text = "Vendas";
-            this.button9.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
-            this.button9.UseVisualStyleBackColor = true;
-            this.button9.Click += new System.EventHandler(this.button9_Click);
+            this.btnVenda.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnVenda.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnVenda.Image = ((System.Drawing.Image)(resources.GetObject("btnVenda.Image")));
+            this.btnVenda.Location = new System.Drawing.Point(597, 248);
+            this.btnVenda.Name = "btnVenda";
+            this.btnVenda.Size = new System.Drawing.Size(176, 230);
+            this.btnVenda.TabIndex = 11;
+            this.btnVenda.Text = "&Vendas";
+            this.btnVenda.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
+            this.btnVenda.UseVisualStyleBackColor = true;
+            this.btnVenda.Click += new System.EventHandler(this.button9_Click);
             // 
-            // button1
+            // bntVoltar
             // 
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
-            this.button1.Location = new System.Drawing.Point(605, 508);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(176, 51);
-            this.button1.TabIndex = 12;
-            this.button1.UseVisualStyleBackColor = true;
+            this.bntVoltar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.bntVoltar.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.bntVoltar.Image = ((System.Drawing.Image)(resources.GetObject("bntVoltar.Image")));
+            this.bntVoltar.Location = new System.Drawing.Point(605, 508);
+            this.bntVoltar.Name = "bntVoltar";
+            this.bntVoltar.Size = new System.Drawing.Size(176, 51);
+            this.bntVoltar.TabIndex = 12;
+            this.bntVoltar.UseVisualStyleBackColor = true;
+            this.bntVoltar.Click += new System.EventHandler(this.bntVoltar_Click);
             // 
             // frmMenuPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(784, 561);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.button9);
-            this.Controls.Add(this.button6);
-            this.Controls.Add(this.button7);
-            this.Controls.Add(this.button8);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button4);
+            this.Controls.Add(this.bntVoltar);
+            this.Controls.Add(this.btnVenda);
+            this.Controls.Add(this.btnFornecedores);
+            this.Controls.Add(this.btnProdutos);
+            this.Controls.Add(this.btnClientes);
+            this.Controls.Add(this.btnconfiguracoes);
+            this.Controls.Add(this.btnRelatorios);
+            this.Controls.Add(this.btnUsuarios);
+            this.Controls.Add(this.btnFuncionarios);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
@@ -184,14 +185,14 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Button button8;
-        private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnFuncionarios;
+        private System.Windows.Forms.Button btnUsuarios;
+        private System.Windows.Forms.Button btnRelatorios;
+        private System.Windows.Forms.Button btnconfiguracoes;
+        private System.Windows.Forms.Button btnFornecedores;
+        private System.Windows.Forms.Button btnProdutos;
+        private System.Windows.Forms.Button btnClientes;
+        private System.Windows.Forms.Button btnVenda;
+        private System.Windows.Forms.Button bntVoltar;
     }
 }

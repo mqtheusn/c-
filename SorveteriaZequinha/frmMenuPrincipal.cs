@@ -41,5 +41,12 @@ namespace SorveteriaZequinha
         {
 
         }
+
+        private void bntVoltar_Click(object sender, EventArgs e)
+        {
+            frmLogin abrir = new frmLogin();
+            abrir.Show();
+            this.Hide();
+        }
     }
 }
